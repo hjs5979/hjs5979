@@ -8,7 +8,7 @@
 
 - 책임감 있는
 
-# <img src="https://github.com/user-attachments/assets/1c1a5ec1-a921-4df9-a7dc-966ff47882cb" alt="stacks" width="35"> Stacks
+# :wrench: Stacks
 
 - Language
 
@@ -36,13 +36,13 @@
 - CI/CD
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 
-# <img src="https://github.com/user-attachments/assets/1c1a5ec1-a921-4df9-a7dc-966ff47882cb" alt="educations" width="35"> Educations
+# :mortar_board: Educations
 
 2016.02 OO고등학교 졸업
 
 2023.08 OO대학교 독어독문학과 / 산업공학과 졸업
 
-# <img src="https://github.com/user-attachments/assets/169706ee-547a-4762-b54f-33bbd0f2dc84" alt="experiences" width="35"> Experiences
+# :seedling: Experiences
 
 2020.08 ~ 2020.12 경제 독서 토론 동아리
 
@@ -56,7 +56,7 @@
 
 2023.05.24 ~            OOO시스템 클라우드사업부 대리
 
-# <img src="https://github.com/user-attachments/assets/9ca873ae-7ce9-467c-95c6-d0352bb52858" alt="certifications" width="30"> Certifications
+# :triangular_flag_on_post: Certifications
 
 2019.02 컴퓨터활용능력 1급
 
@@ -74,13 +74,13 @@
 
 2024.06 투자자산운용사
 
-# <img src="https://github.com/user-attachments/assets/b9876c0c-b558-439b-bfc1-60f78314e851" alt="projects" width="33"> Projects
+# :dart: Projects
 
-## 1. 주식투자 보조 웹 서비스 개발
+## 1. 주식투자 보조 웹 서비스
 
 Back-end
 - Language : Java
-- Skill : SpringBoot, MySQL, Linux, OracleCloud, Jenkins
+- Skill : SpringBoot, MySQL
 
 [프로젝트 상세 설명(Back-end)](https://github.com/hjs5979/)  
 
@@ -89,4 +89,34 @@ Front-end
 - Skill : React.js
 [프로젝트 상세 설명(Front-end)](https://github.com/hjs5979/)
 
+- etc
+Linux, OracleCloud, Jenkins
 
+## 2. 분산투자 관리 웹 서비스
+
+Back-end
+- Language : Python
+- Skill : Django, Postgresql
+
+[프로젝트 상세 설명(Back-end)](https://github.com/hjs5979/)  
+
+Front-end
+ - Language : JavaScript
+- Skill : React.js
+[프로젝트 상세 설명(Front-end)](https://github.com/hjs5979/)
+
+## 3. OO은행 M&A 중개주선 시스템
+
+Back-end
+- Language : Java
+- Skill : SpringBoot, MySQL 
+
+Front-end
+ - Language : JavaScript
+- Skill : React.js
+
+## 3. XX은행 공급망기금안정화 시스템 (계정계)
+
+Back-end / front-end
+- Language : Java, JavaScript
+- Skill : Spring, OracleDB

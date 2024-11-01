@@ -85,11 +85,11 @@ Back-end
 Front-end
  - Language : JavaScript
 - Skill : React.js
-  
-[프로젝트 상세 설명](https://github.com/hjs5979/stockInvestmentHelper)
 
 - etc
 Linux, OracleCloud, Jenkins
+
+[프로젝트 상세 설명](https://github.com/hjs5979/stockInvestmentHelper)
 
 ## 2. 분산투자 관리 웹 서비스
 

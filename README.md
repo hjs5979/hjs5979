@@ -97,13 +97,11 @@ Back-end
 - Language : Python
 - Skill : Django, Postgresql
 
-[프로젝트 상세 설명(Back-end)](https://github.com/hjs5979/df_project)  
-
 Front-end
  - Language : JavaScript
 - Skill : React.js
-  
-[프로젝트 상세 설명(Front-end)](https://github.com/hjs5979/df-fe-app)
+
+[프로젝트 상세 설명](https://github.com/hjs5979/df_project)
 
 ## 3. OO은행 M&A 중개주선 시스템
 

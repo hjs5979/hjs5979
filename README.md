@@ -80,15 +80,13 @@
 
 Back-end
 - Language : Java
-- Skill : SpringBoot, MySQL
-
-[프로젝트 상세 설명(Back-end)](https://github.com/hjs5979/stockInvestmentHelper)  
+- Skill : SpringBoot, MySQL 
 
 Front-end
  - Language : JavaScript
 - Skill : React.js
   
-[프로젝트 상세 설명(Front-end)](https://github.com/hjs5979/stockInvestmentHelper-front)
+[프로젝트 상세 설명(Back-end)](https://github.com/hjs5979/stockInvestmentHelper)
 
 - etc
 Linux, OracleCloud, Jenkins
